@@ -1,0 +1,9 @@
+Test 0 PASS :-)
+Hits: 9
+ Misses: 11
+Test 1 PASS :-)
+Hits: 884
+ Misses: 1136
+Test 2 PASS :-)
+Hits: 59148
+ Misses: 5372
